@@ -1,1 +1,1 @@
-USTC courses of mathematic and cs
+USTC courses of mathematic and computer science
